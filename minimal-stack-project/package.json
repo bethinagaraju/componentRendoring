@@ -1,0 +1,19 @@
+{
+  "name": "minimal-stack-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "ajv-keywords": "^5.1.0",
+    "react-scripts": "^5.0.1",
+    "schema-utils": "^4.3.0",
+    "webpack-dev-server": "^5.2.0"
+  }
+}
